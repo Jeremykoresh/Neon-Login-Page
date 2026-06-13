@@ -1,6 +1,6 @@
-# ⚡ Neon Login Page
+# ⚡ Neon Glassmorphism Login Page
 
-A modern neon-style login page built with pure HTML and CSS. This design uses a dark cyber-inspired background, glowing borders, soft blur effects, and smooth hover interactions to create a premium futuristic look.
+A modern Neon Glassmorphism login page built with pure HTML and CSS. This design combines a dark futuristic background, glowing neon borders, soft blur effects, and smooth hover interactions to create a premium glass-like UI.
 
 ## 📸 Preview
 
@@ -25,7 +25,7 @@ A modern neon-style login page built with pure HTML and CSS. This design uses a 
 ## 📂 Project Structure
 
 ```text
-Neon-Login-Page/
+Neon-Glassmorphism-Login-Page/
 │
 ├── index.html
 ├── preview.png
@@ -37,7 +37,7 @@ Neon-Login-Page/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Jeremykoresh/Neon-Login-Page.git
+git clone https://github.com/Jeremykoresh/Neon-Glassmorphism-Login-Page.git
 ```
 
 ### Open the Project
@@ -53,6 +53,7 @@ You can easily customize:
 * Neon color schemes
 * Background gradient
 * Glow intensity
+* Glassmorphism blur level
 * Button animation
 * Border effects
 * Typography
@@ -88,3 +89,7 @@ GitHub: [https://github.com/Jeremykoresh](https://github.com/Jeremykoresh)
 ## 📄 License
 
 This project is available for educational and personal learning purposes.
+
+## 📌 Notes
+
+This project is best described as a Neon Glassmorphism Login Page rather than a full Cyberpunk UI, because its main visual style focuses on glow, blur, and glass-like panels.
